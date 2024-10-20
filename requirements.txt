@@ -1,0 +1,4 @@
+argparse
+python-dotenv
+tweepy
+openai
