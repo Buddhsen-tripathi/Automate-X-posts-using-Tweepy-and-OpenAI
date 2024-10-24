@@ -1,4 +1,5 @@
-This Python script automates posting on X (formerly Twitter) using the Tweepy library in conjunction with OpenAI.
+This Python script automates posting on X (formerly Twitter) using the Tweepy library in conjunction with OpenAI. <br>
+[Video Tutorial - https://youtu.be/n3ZnrOdBKNk?si=HlBFnoyQhHUlvwZl]
 
 ## Getting Started
 
