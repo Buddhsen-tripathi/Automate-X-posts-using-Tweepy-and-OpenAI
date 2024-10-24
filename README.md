@@ -1,6 +1,22 @@
-A Python script to automate X posts using Tweepy library and OpenAI.
+This Python script automates posting on X (formerly Twitter) using the Tweepy library in conjunction with OpenAI.
 
-Install the required libraries using command  ``pip install -r requirements.txt``
+## Getting Started
 
-Run the file  ``python app.py -n 3`` <br>
-Here n specifies the number of X posts, you may add a timeout in the for loop to add intervals between the tweets.
+### Prerequisites
+
+Make sure you have Python installed on your system. 
+
+### Installation
+
+To install the required libraries, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Usage
+To run the script and specify the number of X posts, use the following command:
+```bash
+python app.py -n 3
+```
+Here, ```-n``` denotes the number of posts you want to create. You can also add a timeout in the loop to create intervals between tweets.
